@@ -1,0 +1,76 @@
+Uri: https://d3v65xz19kjrsz.cloudfront.net/8716817.js
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\8716817.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@520&family=Mochiy+Pop+One&family=Nunito:wght@200&family=Poppins:wght@400;600;700;900&family=REM:wght@300&family=Varela+Round&display=swap
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kumbhsans/v22/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQo5YA8Q.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\kumbhsans\v22\c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQo5YA8Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kumbhsans/v22/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQT5EA8Q.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\kumbhsans\v22\c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQT5EA8Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mochiypopone/v10/QdVPSTA9Jh-gg-5XZP2UmU4O9kww.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\mochiypopone\v10\QdVPSTA9Jh-gg-5XZP2UmU4O9kww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rem/v2/WnzgHAIoSDyHbRjfsYumpRvUPJzqrTo.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\rem\v2\WnzgHAIoSDyHbRjfsYumpRvUPJzqrTo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/varelaround/v20/w8gdH283Tvk__Lua32TysjIvoA.ttf
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\s\varelaround\v20\w8gdH283Tvk__Lua32TysjIvoA.ttf
+Content Type: font/ttf
+
+Uri: https://ropalix.vercel.app/
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://ropalix.vercel.app/app.js
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\app.js
+Content Type: application/javascript
+
+Uri: https://ropalix.vercel.app/bp.png
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\bp.png
+Content Type: image/png
+
+Uri: https://ropalix.vercel.app/samue.png
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\samue.png
+Content Type: image/png
+
+Uri: https://ropalix.vercel.app/sara1.png
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\sara1.png
+Content Type: image/png
+
+Uri: https://ropalix.vercel.app/styles.css
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\styles.css
+Content Type: text/css
+
+Uri: https://ropalix.vercel.app/w-robux.png
+File Name: C:\Downloaded Web Sites\ropalix.vercel.app\w-robux.png
+Content Type: image/png
+
